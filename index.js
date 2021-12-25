@@ -65,7 +65,7 @@ async function checkLocation(locationName, locationCode, postCode, state){
       } 
     }
     else {
-      console.log(`No dates for ${locationName}.`)
+      console.log(`${locationName} ---`)
     }
   
     await browser.close();
