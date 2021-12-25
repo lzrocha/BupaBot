@@ -99,11 +99,16 @@ checkLocation('Bankstown', '#rbLocation170', '2000', 'NSW');
 checkLocation('Corrimal', '#rbLocation131', '2000', 'NSW');
 
 // Robina
-// checkLocation('Robina', '#rbLocation142', '2485', 'NSW');
+checkLocation('Robina', '#rbLocation142', '2485', 'NSW');
 
-// // Brisbane
-// checkLocation('Brisbane', '#rbLocation61', '2485', 'NSW');
+// Brisbane
+checkLocation('Brisbane', '#rbLocation61', '2485', 'NSW');
 
-// // Toowoomba
-// checkLocation('Toowoomba', '#rbLocation155', '2485', 'NSW');
+// Toowoomba
+checkLocation('Toowoomba', '#rbLocation155', '2485', 'NSW');
 
+// Bundaberg
+checkLocation('Bundaberg', '#rbLocation145', '2485', 'NSW');
+
+// Port Macquarie
+checkLocation('Port Macquarie', '#rbLocation158', '2485', 'NSW');
